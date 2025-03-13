@@ -1,0 +1,6 @@
+obj-y += ch_math_utils.o
+obj-y += chbsp_dummy.o
+obj-y += ch_driver.o
+obj-y += ch_common.o
+obj-y += ch_api.o
+obj-y += sensor_fw/

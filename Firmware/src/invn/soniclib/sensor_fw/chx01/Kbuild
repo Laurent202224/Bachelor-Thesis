@@ -1,0 +1,2 @@
+obj-y += chx01_freqsweep.o
+obj-y += chx01_freqsweep_fw.o

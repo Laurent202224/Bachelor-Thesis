@@ -1,0 +1,6 @@
+obj-y += main.o
+obj-y += I2C_expander.o
+obj-y += Fly_control.o
+obj-y += tof_driver/
+obj-y += invn/soniclib/
+obj-y += measurement_config.o

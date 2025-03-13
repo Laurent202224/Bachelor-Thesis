@@ -1,0 +1,2 @@
+obj-y += icu_init_fw.o
+obj-y += icu_init.o

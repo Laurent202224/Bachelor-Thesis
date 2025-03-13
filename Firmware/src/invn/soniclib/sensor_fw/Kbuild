@@ -1,0 +1,2 @@
+obj-y += icu_init/
+obj-y += icu_gpt/
